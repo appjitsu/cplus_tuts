@@ -1,4 +1,4 @@
-** from Beginning C++ Programming - From Beginner to Beyond
-*** https://www.udemy.com/course/beginning-c-plus-plus-programming
+**from Beginning C++ Programming - From Beginner to Beyond**
+***https://www.udemy.com/course/beginning-c-plus-plus-programming***
 
 note: Use Visual Studio Code to use F5 to compile and run. Change the path in the .vscode/launch.json && .vscode/tasks.json to match your compiler bin path. By default it's set to C:\\Program Files\\mingw-w64\\mingw64\\bin.
